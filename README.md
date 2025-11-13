@@ -1,6 +1,5 @@
 <h1 align="center">👋 Olá! Eu sou o Lhuan</h1>
-Sou desenvolvedor **Java** há mais de 4 anos, focado em criar sistemas internos, automações e integrações que realmente fazem diferença no dia a dia das empresas. Trabalho muito com **Spring Boot, APIs, arquitetura em camadas/hexagonal**, processamento de dados e leitura inteligente de arquivos.
-
+Sou desenvolvedor Java há mais de 4 anos, focado em criar sistemas internos, automações e integrações que realmente fazem diferença no dia a dia das empresas. Trabalho muito com **Spring Boot, APIs, arquitetura em camadas/hexagonal** e processamento de dados.
 
 Tenho experiência com **Kafka**, Docker, SQL (PostgreSQL, SQLite), versionamento com Git/GitHub, além de prática com **Linux** e AWS (EC2, S3).
 
