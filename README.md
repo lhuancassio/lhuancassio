@@ -3,6 +3,8 @@ Sou desenvolvedor Java há mais de 4 anos, focado em criar sistemas internos, au
 
 Tenho experiência com Kafka, Docker, SQL (PostgreSQL, SQLite), versionamento com Git/GitHub, além de prática com Linux e AWS (EC2, S3).
 
+Formado em Análise e Desenvolvimento de Sistemas pela **PUCPR** em 2024.
+
 Atualmente curso duas pós-graduações na **UTFPR**:  
 🎓 Especialização em **Tecnologia Java**  
 🛡 Especialização em **Cibersegurança**
