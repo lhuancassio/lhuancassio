@@ -10,7 +10,7 @@ Atualmente curso duas pós-graduações na **UTFPR**:
 Sou movido por aprendizado contínuo, curiosidade e vontade real de melhorar processos e produtos.
 
 ---
-teste
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/>
